@@ -135,7 +135,6 @@ source: source
    createscanningLine();
   //  updataScanningline();
   //  removeStationLineScale();
- myChart.setOption(option, true)
    $('#satellite').click(function(){
      if(satellitetag===true)
      {
